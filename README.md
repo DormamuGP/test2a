@@ -1,3 +1,8 @@
 # Primer Repositorio de HITHUB
+El repositorio contiene informacion acerca del tema tres de la asignatura de probabilidad y estadistica
 
-Este repositorio contiene informacion acerca del tema 3 de la asignatura de probablidad y estadistica
+# Datos del propietario
+
+Cristobal Gachuz Plata
+240110594
+240110594@itsoeh.edu.mx
